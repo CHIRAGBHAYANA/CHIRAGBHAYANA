@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CHIRAGBHAYANA
 - 👀 I’m interested in Competitive Programming and Web Development
 - 🌱 I’m currently learning MERN stack and Practising DSA
-- 💞️ I’m looking for an Internship in MERN Stack
 - 📫 Reach Me - chiragbhayana2k@gmail.com or https://chiragbhayana.github.io/My-Personal-Site/
 
 <!---
